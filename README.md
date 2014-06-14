@@ -20,6 +20,5 @@ The application is portable and contained in one executable file (TimeToSleep.ex
 
 Consider making a micro-donation via Flattr by Liking this app. Click on the button below.  
 
-[![Flattr](http://api.flattr.com/button/flattr-badge-large.png "Flattr this"](https://flattr.com/submit/auto?user_id=NirodhaSoftware&url=https%3A%2F%2Fgithub.com%2Fnirodhasoftware%2FTimeToSleep)  
-
+[![Flattr](http://api.flattr.com/button/flattr-badge-large.png "Flattr this")](https://flattr.com/submit/auto?user_id=NirodhaSoftware&url=https%3A%2F%2Fgithub.com%2Fnirodhasoftware%2FTimeToSleep)  
 
