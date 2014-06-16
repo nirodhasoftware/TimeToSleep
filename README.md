@@ -5,6 +5,8 @@ TimeToSleep
 
 An application built in C#.NET that puts Windows into standby (either Hibernate or Sleep) after a specified period of time.
 
+[![Click to Download](http://www.nirodhasoftware.com/TimeToSleep/timetosleep.png "Click to Download")](https://github.com/nirodhasoftware/TimeToSleep/tree/master/Binary)
+
 ### Download
 
 The latest application binaries can always be found in:  
